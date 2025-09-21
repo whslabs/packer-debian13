@@ -14,7 +14,7 @@ source "qemu" "debian13" {
   disk_size         = "100G"
   efi_boot          = true
   http_directory    = "http"
-  iso_checksum      = "65db3a76de52257ca93ed91afce320bc535785d668b55be1b42bab85e7d4f1f6"
+  iso_checksum      = "bfc338e671fd5a9f6d4a65cbf728c674c468e87c063f6fb324fc04677dc0d23d"
   iso_url           = "https://deb.debian.org/debian/dists/trixie/main/installer-amd64/current/images/netboot/mini.iso"
   memory            = 4096
   ssh_password      = "packer"
