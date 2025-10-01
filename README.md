@@ -20,3 +20,4 @@ virt-install \
 ```sh
 sudo apt-get install -y ibus-mozc
 ```
+https://github.com/google/mozc/blob/master/docs/configurations.md
